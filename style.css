@@ -49,3 +49,35 @@ p {
   display: block;
   margin: auto;
 }
+/* My Misson */
+.my-mission {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.my-mission h1 {
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+}
+.my-mission .mission-item {
+  width: 35%;
+  padding: 25px;
+  background: #edf5f6;
+  border-radius: 5%;
+  margin: 0px 2%;
+}
+.my-mission .mission-item img {
+  width: 140px;
+}
+.my-mission .mission-item h3 {
+  font-size: 24px;
+}
+.my-mission .mission-item p {
+  margin: 15px 0px;
+}
+#missionbg-2 {
+  background: #ffeeee;
+}
+#missionbg-3 {
+  background: #fff4d6;
+}
