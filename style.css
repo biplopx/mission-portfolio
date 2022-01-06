@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+/* Reusable Class */
+.flexible {
+  display: flex;
+}
+.pl-pr {
+  padding: 0px 15%;
+}
+.primary-color {
+  color: #27ae60;
+}
+.btn {
+  text-decoration: none;
+  background-color: #27ae60;
+  color: #fff;
+  padding: 12px;
+  border-radius: 5px;
+}
+p {
+  line-height: 1.5;
+  margin: 40px 0px;
+}
+/* Focus banner */
+.focus-banner {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.focus-text {
+  width: 50%;
+}
+.focus-text h1 {
+  font-size: 60px;
+  font-family: "Yeseva One", cursive;
+  line-height: 1.4;
+}
+.focus-text a {
+  margin: 40px 0px;
+}
+
+.person-img {
+  width: 50%;
+}
+.person-img img {
+  width: 60%;
+  display: block;
+  margin: auto;
+}
