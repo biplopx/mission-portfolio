@@ -24,6 +24,13 @@ p {
   line-height: 1.5;
   margin: 40px 0px;
 }
+.pt-pb {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.m-heading {
+  font-size: 36px;
+}
 /* Focus banner */
 .focus-banner {
   padding-top: 100px;
@@ -36,6 +43,8 @@ p {
   font-size: 60px;
   font-family: "Yeseva One", cursive;
   line-height: 1.4;
+  border-left: 5px solid #27ae60;
+  padding-left: 20px;
 }
 .focus-text a {
   margin: 40px 0px;
@@ -50,10 +59,6 @@ p {
   margin: auto;
 }
 /* My Misson */
-.my-mission {
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
 .my-mission h1 {
   font-size: 48px;
   font-weight: 700;
@@ -80,4 +85,26 @@ p {
 }
 #missionbg-3 {
   background: #fff4d6;
+}
+/* Develop */
+.develop-img {
+  width: 40%;
+}
+.develop-img img {
+  width: 80%;
+}
+.develop-text {
+  width: 60%;
+}
+/* Community*/
+.com-text {
+  width: 60%;
+  padding-right: 60px;
+}
+.com-img {
+  width: 40%;
+  padding-left: px;
+}
+.com-img img {
+  width: 80%;
 }
